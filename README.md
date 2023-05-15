@@ -1,1 +1,1 @@
-# grassroot-rock_paper_scissors
+this project is about rock,paper,scissors game
