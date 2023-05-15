@@ -4,7 +4,7 @@ function getComputerChoice() {
   return randomChoice;
 }
 
-function gameRound(playerSelction, computerSelection) {
+function playRound(playerSelction, computerSelection) {
   playerSelection = playerSelection.toLowerCase();
   if(playerSelection === computerSelection.toLowerCase()) {
     return "It's a tie!";
